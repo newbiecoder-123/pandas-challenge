@@ -1,0 +1,7 @@
+Heroes of Pymoli Observations
+
+1. There are more men than women in terms of the percentage of players. 
+
+2. At least 50% of the players are between the ages of 20-29. 
+
+3. The most popular and profitable item was "Final Critic" with a total purchase count of 13 and total purchase value of $59.99, respectively.
